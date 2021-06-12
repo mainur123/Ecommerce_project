@@ -92,7 +92,7 @@
             </div>
             <p>$50.00</p>
         </div>
-        <div class="col-4">
+        {{-- <div class="col-4">
             <img src="{{ asset('images/product-3jpg') }}">
             <h4>Red Printed T-Shirt</h4>
             <div class="rating">
@@ -103,7 +103,7 @@
                 <i class="fa fa-star-o"></i>
             </div>
             <p>$50.00</p>
-        </div>
+        </div> --}}
         <div class="col-4">
             <img src="{{ asset('images/product-4.jpg') }}">
             <h4>Red Printed T-Shirt</h4>
